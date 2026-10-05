@@ -1,0 +1,8 @@
+buildVariable: false
+removeOutlineOverlaps: false
+noProductionNames: true
+autohintTTF: false
+sources:
+  - Trochut-Bold.glyphs
+  - Trochut-Italic.glyphs
+  - Trochut-Regular.glyphs
